@@ -6,7 +6,6 @@ console.log(message)
 1. Go to directory path in node command prompt.
 2. then type below command.
 3. 
-
 # Locally in your project
 npm install -D ts-node
 npm install -D typescript
